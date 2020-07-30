@@ -38,26 +38,37 @@ spec
 
 
 00_hello.rb
+
      c'est une simple fonction pour dire hello au personne
 
 01_temperatur.rb
+
      c'est une fonction qui sert à convertir la temperature en Fahrenheit vers Celsuis et vice vers ca
      Il se trouve dans https://fr.wikipedia.org/wiki/Degr%C3%A9_Fahrenheit  le detail
 
 02_calculateur.rb
+
      contient la fonction d'addition, soustraction, somme, puissance et facorielle
 
 03_basics.rb
+
     cette fonction consiste à manipuler le tableau ,trouver le plus grand valeur, renverser le caractere et mettre en majuscul sans LTA
 
 04_simon_says.rb
+
     c'est une fonction pour manipuler le chaine de caractere avec le methode de tableau
 
 05_timer.rb
+
     fonction pour calculer le nombre en seconde convertir en heure minute seconde
 
 06_pig_latin.rb
+
     Fontion pour test un mot; si un mot commence par une voyelle, ajoutez un son "ay" à la fin du mot. Et si un mot commence par une consonne, déplacez-le à la fin du mot, puis ajoutez un son "ay" à la fin du mot. 
+    
 
 
 Cette exercice est tirer dans https://github.com/felhix/tests-ruby
+
+
+
