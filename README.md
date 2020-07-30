@@ -66,6 +66,10 @@ spec
 
     Fontion pour test un mot; si un mot commence par une voyelle, ajoutez un son "ay" à la fin du mot. Et si un mot commence par une consonne, déplacez-le à la fin du mot, puis ajoutez un son "ay" à la fin du mot. 
     
+spec
+
+    Le dossier spec concert de fichier descptif de test
+    
 
 
 Cette exercice est tirer dans https://github.com/felhix/tests-ruby
