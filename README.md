@@ -63,12 +63,12 @@ spec
     fonction pour calculer le nombre en seconde convertir en heure minute seconde
 
 06_pig_latin.rb
-
+https://github.com/Annyzo/Projet_Test_ruby
     Fontion pour test un mot; si un mot commence par une voyelle, ajoutez un son "ay" à la fin du mot. Et si un mot commence par une consonne, déplacez-le à la fin du mot, puis ajoutez un son "ay" à la fin du mot. 
     
 spec
 
-    Le dossier spec concert de fichier descptif de test
+    Le dossier spec concernant de fichier descriptif de test
     
 
 
