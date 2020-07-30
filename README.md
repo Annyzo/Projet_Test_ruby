@@ -12,26 +12,25 @@ Cette  projet consiste à test un fichier de ruby avec un fichier ruby compatibl
         
         
 projet_test_ruby     |
-
-|____lib                                                                                                                                                         
-  |                                                                                                                                                             
-  |__/*00_hello.rb                                                                                                                                               
-  |__/*01_temperature.rb                                                                                                                                         
-  |__/*02_calculator.rb                                                                                                                                         
-  |__/*03_basics.rb                                                                                                                                             
-  |__/*04_simon_says.rb                                                                                                                                         
-  |__/*05_timer.rb                                                                                                                                               
-  |__/*06_pig_latin.rb                                                                                                                                           
+lib                                                                                                                                                         
+    |                                                                                                                                                           
+    |__/*00_hello.rb                                                                                                                                            
+    |__/*01_temperature.rb                                                                                                                                       
+    |__/*02_calculator.rb                                                                                                                                       
+    |__/*03_basics.rb                                                                                                                                           
+    |__/*04_simon_says.rb                                                                                                                                       
+    |__/*05_timer.rb                                                                                                                                             
+    |__/*06_pig_latin.rb                                                                                                                                         
 spec                                                                                                                                                             
-   |__/*00_hello_spec.rb                                                                                                                                         
-   |__/*01_temperature_spec.rb                                                                                                                                   
-   |__/*02_calculator_spec.rb                                                                                                                                   
-   |__/*03_basics_spec.rb                                                                                                                                       
-   |__/*04_simon_says_spec.rb                                                                                                                                   
-   |__/*05_timer_spec.rb                                                                                                                                         
-   |__/*06_pig_latin_spec.rb                                                                                                                                     
-   |__/*spec_helper.rb                                                                                                                                           
-  .rspec                                                                                                                                                            
+    |__/*00_hello_spec.rb                                                                                                                                       
+    |__/*01_temperature_spec.rb                                                                                                                                 
+    |__/*02_calculator_spec.rb                                                                                                                                   
+    |__/*03_basics_spec.rb                                                                                                                                       
+    |__/*04_simon_says_spec.rb                                                                                                                                   
+    |__/*05_timer_spec.rb                                                                                                                                       
+    |__/*06_pig_latin_spec.rb                                                                                                                                   
+    |__/*spec_helper.rb                                                                                                                                         
+.rspec                                                                                                                                                            
 
      	  
      	#DESCRIPTION DE PROJET
